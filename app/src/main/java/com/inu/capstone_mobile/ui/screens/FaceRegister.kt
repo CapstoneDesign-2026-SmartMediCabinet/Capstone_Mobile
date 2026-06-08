@@ -316,7 +316,7 @@ private fun FaceUserInfoRow(label: String, value: String) {
 @Preview(
 	showBackground = true,
 	name = "안면 정보 등록",
-	device = "spec:width=1280dp,height=800dp,dpi=240"
+	device = "spec:width=800dp,height=1280dp,dpi=180"
 )
 @Composable
 fun FaceRegisterPreview() {
