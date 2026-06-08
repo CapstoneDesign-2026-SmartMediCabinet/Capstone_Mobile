@@ -1,0 +1,13 @@
+com.inu.capstone_tablet  
+  ┣ 📜 MainActivity.kt           // [수정] 앱의 입구 (테마 설정만 남김)  
+  ┣ 📂 navigation  
+  ┃ ┗ 📜 WireframeApp.kt        // [이동] NavHost와 모든 경로 설정  
+  ┗ 📂 ui  
+   ┣ 📂 components  
+   ┃ ┣ 📜 BaseCard.kt          // [이동] 기본 카드 틀  
+   ┃ ┗ 📜 DashboardCards.kt    // [이동] StatusCard, AdminSlotCard 등 부품들  
+   ┗ 📂 screens  
+     ┣ 📜 LoginScreen.kt       // [이동] DummyLogin 함수  
+     ┣ 📜 ManagerScreen.kt     // [이동] ManagerPage 함수  
+     ┣ 📜 UserScreen.kt        // [이동] UserPage 함수  
+     ┗ 📜 MedRegiScreen.kt     // [이동] MedRegi 함수  
