@@ -4,7 +4,7 @@
 2. VCS(Version Control System)을 Git으로 설정, 즉 맨 위 VCS-Enable Version Control integration - Git 클릭
 3. VCS버튼이 Git으로 바뀜, 이 때 Git- Github - clone repository 선택
 4. Repository URL 칸에 아래 주소 복붙하고 Clone 버튼 누르기
-- 주소: [https://github.com/Bibagyte/Capstone_Tablet.git](https://github.com/Bibagyte/Capstone_Tablet.git)
+- 주소: [https://github.com/Bibagyte/Capstone_Mobile.git](https://github.com/Bibagyte/Capstone_Mobile.git)
 
 
   4-1. 또는 Github 웹사이트에서 우상단 프로필아이콘 클릭 - 설정 - Applications - Authorized OAuth apps(3번째 탭) - JetBrains IDE integration 클릭, 하단의 Organization Access의 Grant 버튼 클릭
